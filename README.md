@@ -1,4 +1,4 @@
-![Untitled design(2)](https://github.com/user-attachments/assets/6dca19f4-cbfa-4e48-81a2-9f64cadaffed)
+![Untitled design(3)(1)](https://github.com/user-attachments/assets/bf716b29-b009-448d-83f1-b950cd195854)![Untitled design(2)](https://github.com/user-attachments/assets/6dca19f4-cbfa-4e48-81a2-9f64cadaffed)
 
 <h3 align="center">A passionate Frontend Developer from Quezon City, Philippines</h3>
 
@@ -10,16 +10,22 @@
   <img src="https://komarev.com/ghpvc/?username=esurenajames&label=Profile%20views&color=8751e6&style=flat" alt="esurenajames" />
 </p>
 
-![Untitled design(3)(1)](https://github.com/user-attachments/assets/59bcb437-e1d1-4eb6-92ee-e0e30d3df557)
-
-<ul>
-  <li>🔭 I’m currently working as an <strong>Associate Software Developer at Decode Technologies</strong></li>
-  <li>🌱 I’m currently learning <strong>Next.js & Supabase</strong></li>
-  <li>💬 Ask me about <strong>Vue, Laravel,</strong></li>
-  <li>📫 How to reach me <strong>https://esurenajames.software</strong></li>
-  <li>⚡ Fun fact <strong>I love Chess and Video Games</strong></li>
-</ul>
-<br clear="all" />
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🔭 I’m currently working as an <strong>Associate Software Developer at Decode Technologies</strong></li>
+        <li>🌱 I’m currently learning <strong>Next.js & Supabase</strong></li>
+        <li>💬 Ask me about <strong>Vue, Laravel,</strong></li>
+        <li>📫 How to reach me <strong>https://esurenajames.software</strong></li>
+        <li>⚡ Fun fact <strong>I love Chess and Video Games</strong></li>
+      </ul>
+    </td>
+    <td width="40%" valign="center">
+      ![Untitled design(3)(1)](https://github.com/user-attachments/assets/62a7a41a-d5af-45dd-b443-f7839a6c64bc)
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
