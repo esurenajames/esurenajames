@@ -3,8 +3,11 @@
 <h3 align="center">A passionate Frontend Developer form Quezon City, Philippines</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=esurenajames&label=Profile%20views&color=8751e6&style=flat" alt="esurenajames" />
 <a href="https://linkedin.com/in/esurenajames" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="esurenajames" /></a>
+</p>
+
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=esurenajames&label=Profile%20views&color=8751e6&style=flat" alt="esurenajames" />
 </p>
 
 <table border="0" width="100%">
@@ -19,12 +22,7 @@
       </ul>
     </td>
     <td width="40%" valign="center">
-      <img 
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0YWRmOGVpdmYwNHhyeGp0ZjFmeGZwN25hY2VuaGRiaTM5ZDBiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrY3Ob4OOeQdsW0BPz/giphy.gif"
-        alt="Waving animation"
-        width="100%"
-        style="max-width: 300px; border-radius: 12px;"
-      />
+      ![Untitled design(3)(1)](https://github.com/user-attachments/assets/767eb5ee-d382-4d36-b57e-92cfb27752d0)
     </td>
   </tr>
 </table>
