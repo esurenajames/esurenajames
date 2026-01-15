@@ -1,6 +1,6 @@
 ![Untitled design(2)](https://github.com/user-attachments/assets/6dca19f4-cbfa-4e48-81a2-9f64cadaffed)
 
-<h3 align="center">A passionate Frontend Developer form Quezon City, Philippines</h3>
+<h3 align="center">A passionate Frontend Developer from Quezon City, Philippines</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/esurenajames" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="esurenajames" /></a>
@@ -10,22 +10,16 @@
   <img src="https://komarev.com/ghpvc/?username=esurenajames&label=Profile%20views&color=8751e6&style=flat" alt="esurenajames" />
 </p>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🔭 I’m currently working as an <strong>Associate Software Developer at Decode Technologies</strong></li>
-        <li>🌱 I’m currently learning <strong>Next.js & Supabase</strong></li>
-        <li>💬 Ask me about <strong>Vue, Laravel,</strong></li>
-        <li>📫 How to reach me <strong>https://esurenajames.software</strong></li>
-        <li>⚡ Fun fact <strong>I love Chess and Video Games</strong></li>
-      </ul>
-    </td>
-    <td width="40%" valign="center">
-      ![Untitled design(3)(1)](https://github.com/user-attachments/assets/767eb5ee-d382-4d36-b57e-92cfb27752d0)
-    </td>
-  </tr>
-</table>
+![Untitled design(3)(1)](https://github.com/user-attachments/assets/59bcb437-e1d1-4eb6-92ee-e0e30d3df557)
+
+<ul>
+  <li>🔭 I’m currently working as an <strong>Associate Software Developer at Decode Technologies</strong></li>
+  <li>🌱 I’m currently learning <strong>Next.js & Supabase</strong></li>
+  <li>💬 Ask me about <strong>Vue, Laravel,</strong></li>
+  <li>📫 How to reach me <strong>https://esurenajames.software</strong></li>
+  <li>⚡ Fun fact <strong>I love Chess and Video Games</strong></li>
+</ul>
+<br clear="all" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +34,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
