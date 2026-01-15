@@ -1,5 +1,5 @@
-<img width="851" height="315" alt="Orange and Yellow Illustrated Back to School Facebook Cover" src="https://github.com/user-attachments/assets/6a80e5d4-a083-44bb-9667-70d149cebe70" />
-<h3 align="center">A passionate Frontend Developer form Quezon City, Philippines</h3>
+<h3 align="center">A passionate <img width="851" height="315" alt="Orange and Yellow Illustrated Back to School Facebook Cover(1)" src="https://github.com/user-attachments/assets/a93e557c-8dc8-44c8-bb18-7792dff13393" />
+Frontend Developer form Quezon City, Philippines</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=esurenajames&label=Profile%20views&color=8751e6&style=flat" alt="esurenajames" />
