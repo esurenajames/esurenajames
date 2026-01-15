@@ -19,7 +19,12 @@
       </ul>
     </td>
     <td width="40%" valign="center">
-
+      <img 
+        src="[https://jumpshare.com/s/4Av3nbhCp9pxwma6Ns8N](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0YWRmOGVpdmYwNHhyeGp0ZjFmeGZwN25hY2VuaGRiaTM5ZDBiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrY3Ob4OOeQdsW0BPz/giphy.gif)"
+        alt="Waving animation"
+        width="100%"
+        style="max-width: 300px; border-radius: 12px;"
+      />
     </td>
   </tr>
 </table>
