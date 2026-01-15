@@ -1,4 +1,4 @@
-![Untitled design(3)(1)](https://github.com/user-attachments/assets/bf716b29-b009-448d-83f1-b950cd195854)![Untitled design(2)](https://github.com/user-attachments/assets/6dca19f4-cbfa-4e48-81a2-9f64cadaffed)
+![Banner](assets/banner.gif)
 
 <h3 align="center">A passionate Frontend Developer from Quezon City, Philippines</h3>
 
@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td width="40%" valign="center">
-      ![Untitled design(3)(1)](https://github.com/user-attachments/assets/62a7a41a-d5af-45dd-b443-f7839a6c64bc)
+      <img src="assets/profile.gif" width="100%" />
     </td>
   </tr>
 </table>
