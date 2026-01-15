@@ -1,4 +1,4 @@
- <img width="851" height="315" alt="Orange and Yellow Illustrated Back to School Facebook Cover(1)" src="https://github.com/user-attachments/assets/a93e557c-8dc8-44c8-bb18-7792dff13393" />
+![ezgif-7f3940e17b4ffdd5](https://github.com/user-attachments/assets/5c936982-7b9a-4c1c-b3c0-d3c90f3c4037)
 
 <h3 align="center">A passionate Frontend Developer form Quezon City, Philippines</h3>
 
@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td width="40%" valign="center">
-      <img src="https://dummyimage.com/600x400/8751e6/fff&text=Best+Photo+Here" alt="Profile Illustration" width="100%">
+
     </td>
   </tr>
 </table>
